@@ -1,7 +1,22 @@
 ## 개요
 
-KH 정보교육원에서 진행한 2개의 프로젝트 중 세미프로젝트입니다.
+KH 정보교육원에서 진행한 세미 프로젝트입니다.
 
-첫 프로젝트라, 어떻게 프로젝트를 하는지 알아가는 것이 최우선 목표였습니다.
+#### 보고서
+https://spiny-truffle-e60.notion.site/KH-2304-2305-cefb6d41df394d9d875e9932093de3df
 
-특별히 설계상 강조할 부분은 없어서 세부 보고서를 작성하지 않았습니다.
+## 요약
+
+#### 기술 스택 : 
+
+Oracle 19c, Apache Tomcat 9, Java, Spring Tools, JSP, Servlet, HTML/CSS/Javascript, jQuery, Import API, Kakao map API
+
+#### 방향 :
+
+- 첫 프로젝트이므로 수업 내용 복습에 집중. 실제 구현해보는 것에 집중.
+
+#### 역할 :
+
+- DB 총 설계 + 검수
+- 마켓 페이지
+- 결제 API
